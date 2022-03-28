@@ -1,0 +1,22 @@
+[
+    {
+        "numMesa": 1,
+        "Platillos": 
+        {
+            "1":
+            {
+                "id": 1,
+                "nombre": "Pizza"
+            },
+            "2":
+            {
+                "id": 1,
+                "nombre": "Pizza"
+            }
+        },
+        "fecha": "12/12/12",
+        "Empleado": "Juan",
+        "Anotaciones": "Sin cebolla",
+        "Codigo": "Birthday"
+    }
+]

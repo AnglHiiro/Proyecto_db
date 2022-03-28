@@ -1,0 +1,170 @@
+[
+  {
+    "id": 0,
+    "name": "Pizza",
+    "description": "La combinación perfecta entre Pepperoni y Champiñones, con un gran sabor y horneado al momento.",
+    "category": "Comida Italiana",
+    "price": "79.99",
+    "imageUrl": "https://placeralplato.com/files/2016/01/Pizza-con-pepperoni-640x480.jpg?width=1200&enable=upscale"
+  },
+  {
+    "id": 1,
+    "name": "Coctel de Camarones",
+    "description": "Preparación a base de camarones generalmente crudos, aliñados o macerados en una mezcla de aceite de oliva o maíz, puré de jitomate o salsa catsup, cebolla picada y cilantro.",
+    "category": "Mariscos",
+    "price": "90.50",
+    "imageUrl": "https://cdn.kiwilimon.com/recetaimagen/29699/th5-640x640-31115.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hamburguesa",
+    "description": "Dos piezas de carne 100% Black Angus, salsa especial, 2 rebanadas queso americano, mayonesa, lechuga, cebolla morada, tomate y pepinillos.",
+    "category": "Comida Rapida",
+    "price": "65.80",
+    "imageUrl": "https://gourmetdemexico.com.mx/wp-content/uploads/2021/05/dia-de-la-hamburguesa.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Agua embotellada ciel",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Bebida",
+    "price": "13.50",
+    "imageUrl": "https://s.cornershopapp.com/product-images/341325.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Agua embotellada epura",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Bebida",
+    "price": "11",
+    "imageUrl": "https://www.sanborns.com.mx/imagenes-sanborns-ii/1200/7501086801121.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pay de Limón",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Postres",
+    "price": "25.95",
+    "imageUrl": "https://www.vvsupremo.com/wp-content/uploads/2017/11/Lime-Tart-Recipe-2.png"
+  },
+  {
+    "id": 6,
+    "name": "Flan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Postres",
+    "price": "18.90",
+    "imageUrl": "https://saboryestilo.com.mx/wp-content/uploads/2021/08/Receta-flan-napolitano.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Carnitas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Rapida",
+    "price": "60.85",
+    "imageUrl": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/09/como-se-hacen-las-carnitas-facil.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tacos al pastor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Rapida",
+    "price": "25.20",
+    "imageUrl": "https://www.comedera.com/wp-content/uploads/2017/08/tacos-al-pastor-receta.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Agua de Piña",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Bebida",
+    "price": "19.00",
+    "imageUrl": "https://files.wapa.pe/Wapa/2020/01/18/agua-de-c-scara-de-pi-a-1-1579359641.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Agua de horchata",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Bebida",
+    "price": "19.50",
+    "imageUrl": "https://cdn.kiwilimon.com/recetaimagen/13125/th5-640x640-24052.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Orden de Papas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Rapida",
+    "price": "27.65",
+    "imageUrl": "https://d1ralsognjng37.cloudfront.net/be2c7115-c1a6-4b6e-829c-b295e2a3101e.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Orden de Cebollas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Rapida",
+    "price": "35.15",
+    "imageUrl": "https://laparrillaranchera.com/media/2013/07/Cebollas.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Bagette de Champinones",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Casera",
+    "price": "30.20",
+    "imageUrl": "https://www.cardamomo.news/__export/1610495028131/sites/debate/img/2021/01/12/receta_de_baguette_vegano_con_champixones_para_el_desayunox_crop1610494964841.jpeg_117894780.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Baggete de Jamon",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Casera",
+    "price": "28.60",
+    "imageUrl": "https://dam.cocinafacil.com.mx/wp-content/uploads/2018/03/Baguette-maravilla.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Baggette de Pizza",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Casera",
+    "price": "33.33",
+    "imageUrl": "https://cdn7.kiwilimon.com/recetaimagen/36426/45114.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Baggette de Hawaiano",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Casera",
+    "price": "38.40",
+    "imageUrl": "https://cdn7.kiwilimon.com/recetaimagen/36426/45114.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Baggette de Salmon",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Casera",
+    "price": "42.70",
+    "imageUrl": "https://storage.googleapis.com/avena-recipes/2019/10/1571781090929.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "Baggette de Pollo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Casera",
+    "price": "45.90",
+    "imageUrl": "https://dam.cocinafacil.com.mx/wp-content/uploads/2020/01/baguette-de-pollo.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Baggette de Carne",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Comida Casera",
+    "price": "49.00",
+    "imageUrl": "https://i.blogs.es/927b89/baguette-carne-queso-receta/840_560.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Pastel de Pistache",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur ante ut eros ornare, a mattis massa tincidunt. Nunc non venenatis neque.",
+    "category": "Postres",
+    "price": "52.50",
+    "imageUrl": "https://hornomx.com/wp-content/uploads/2017/01/pistachio-cake-recipe-hornomx-FG.jpg"
+  }
+]
